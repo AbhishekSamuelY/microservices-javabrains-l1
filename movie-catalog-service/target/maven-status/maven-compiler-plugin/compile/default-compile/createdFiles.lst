@@ -1,0 +1,6 @@
+com\abhisheksamuely\movie\moviecatalog\beans\Rating.class
+com\abhisheksamuely\movie\moviecatalog\MovieCatalogServiceApplication.class
+com\abhisheksamuely\movie\moviecatalog\beans\MovieInfo.class
+com\abhisheksamuely\movie\moviecatalog\beans\MovieCatalog.class
+com\abhisheksamuely\movie\moviecatalog\beans\UserRating.class
+com\abhisheksamuely\movie\moviecatalog\controller\MovieCatalogController.class
